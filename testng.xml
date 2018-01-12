@@ -1,4 +1,4 @@
-
+<!--changed done to the xml file-->
 <suite name="OrangeHRM TestSuite">
   <test name="End to end Testing">
     <classes>
